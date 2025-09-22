@@ -1,33 +1,19 @@
-🎓 Digital Awareness & AI Literacy Survey App
+# 🎈 Blank app template
 
-This is a Streamlit-based web application designed to conduct and analyse surveys for academic staff at KPJU (KPJ Healthcare University) regarding their digital awareness, AI literacy, and tools adoption.
+A simple Streamlit app template for you to modify!
 
-The app has two main sections:
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
-Survey Form – where lecturers can submit their responses.
+### How to run it on your own machine
 
-Data Analysis Dashboard – where administrators can view, download, and manage survey results.
+1. Install the requirements
 
-🚀 Features
+   ```
+   $ pip install -r requirements.txt
+   ```
 
-📋 Survey Form with multiple sections:
+2. Run the app
 
-Background Information (Faculty, Role, Experience, Email, etc.)
-
-Digital Awareness & Skills
-
-AI Literacy & Tools adoption
-
-Training Needs
-
-✏️ "Other" options include a text box for custom answers.
-
-📊 Data Analysis Dashboard:
-
-Displays collected survey data in a table.
-
-Allows download of results as CSV/Excel.
-
-Option to delete all data for a fresh start.
-
-🔐 (Optional) Can be extended with authentication (e.g., passcode for admins).
+   ```
+   $ streamlit run streamlit_app.py
+   ```
