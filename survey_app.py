@@ -5,7 +5,7 @@ import re
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Digital Awareness & AI Literacy Survey (GenAI tools)", layout="wide")
+st.set_page_config(page_title="Digital Awareness & AI Literacy Survey", layout="wide")
 
 # CSV file to save survey data
 CSV_FILE = "survey_results.csv"
@@ -16,7 +16,7 @@ tab1, tab2 = st.tabs(["📝 Survey Form", "📊 Data Analysis"])
 
 # ---------------- TAB 1: SURVEY ---------------- #
 with tab1:
-    st.title("📋 Digital Awareness & AI Literacy Survey")
+    st.title("📋 Digital Awareness & AI Literacy Survey (GenAI tools)")
     st.write("""
     Dear Colleagues,
 
