@@ -1,19 +1,29 @@
-# 🎈 Blank app template
+# 📊 Digital Awareness & AI Literacy Survey  
 
-A simple Streamlit app template for you to modify!
+This project is a **Streamlit web app** for collecting and analysing survey responses on digital awareness and AI literacy among academic staff at KPJU.  
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+🔗 **Live App:** [https://survey-ai-sdh.streamlit.app](https://survey-ai-sdh.streamlit.app)  
+📂 **Repo:** [https://github.com/sdh-kpju/survey-ai](https://github.com/sdh-kpju/survey-ai)  
 
-### How to run it on your own machine
+---
 
-1. Install the requirements
+## 🚀 Features
+- 📝 **Survey Form** (Tab 1)  
+  - Collects background, digital literacy, AI awareness, and training preferences.  
+  - Stores responses in a CSV file (`survey_results.csv`).  
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+- 📊 **Data Analysis** (Tab 2, passcode protected)  
+  - View all responses.  
+  - Visualise summaries (bar charts, word clouds).  
+  - Download full survey data (CSV).  
+  - 🔒 Admin option to **delete all data**.  
 
-2. Run the app
+---
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## 🛠️ Installation  
+
+Clone the repo:  
+```bash
+git clone https://github.com/sdh-kpju/survey-ai.git
+cd survey-ai
+
