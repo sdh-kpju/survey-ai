@@ -10,21 +10,4 @@ This project is a **Streamlit web app** for collecting and analysing survey resp
 ## 🚀 Features
 - 📝 **Survey Form** (Tab 1)  
   - Collects background, digital literacy, AI awareness, and training preferences.  
-    - Stores responses in a CSV file (`survey_results.csv`).  
 
-    - 📊 **Data Analysis** (Tab 2, passcode protected)  
-      - View all responses.  
-        - Visualise summaries (bar charts, word clouds).  
-          - Download full survey data (CSV).  
-            - 🔒 Admin option to **delete all data**.  
-
-            ---
-
-            ## 🛠️ Installation  
-
-            Clone the repo:  
-            ```bash
-            git clone https://github.com/sdh-kpju/survey-ai.git
-            cd survey-ai
-
-            
