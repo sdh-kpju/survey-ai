@@ -5,7 +5,7 @@ import re
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Digital Awareness & AI Literacy Survey", layout="wide")
+st.set_page_config(page_title="Digital Awareness & AI Literacy Survey KPJU", layout="wide")
 
 # CSV file to save survey data
 CSV_FILE = "survey_results.csv"
