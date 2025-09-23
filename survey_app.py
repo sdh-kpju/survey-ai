@@ -20,7 +20,7 @@ with tab1:
     st.write("""
     Dear Colleagues,
 
-    We are from School of Digital health (SDH) planning to organise a *Bootcamp on AI Literacy & Tools* for academic staff at KPJU.  
+    We are from School of Digital Health (SDH) planning to organise a *Bootcamp on AI Literacy & Tools* for academic staff at KPJU.  
     To ensure the training is relevant and beneficial, we would like to understand your current level of awareness, usage, and expectations regarding digital technologies and AI.  
 
     This survey will take **5–7 minutes**. All responses are confidential.  
